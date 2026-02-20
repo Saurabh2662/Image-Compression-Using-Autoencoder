@@ -46,6 +46,9 @@ python autoencoder.py
 ## 🤝 Contributing  
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository, create a branch, and submit a pull request.  
 
+## 💡 Contributors
+👤 **Your Name: Saurabh**  
+
 ## 📜 License  
 This project is licensed under the **MIT License**.  
 
