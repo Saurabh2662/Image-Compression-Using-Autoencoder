@@ -47,7 +47,7 @@ python autoencoder.py
 Contributions are welcome! If you’d like to improve this project, feel free to fork the repository, create a branch, and submit a pull request.  
 
 ## 💡 Contributors
-👤 **Your Name:- Saurabh**  
+👤 **Your Name: Saurabh**  
 📧 **Email:- sauravsingh6462@gmail.com**   
 🔗 **LinkedIn:- https://www.linkedin.com/in/saurabh1826/**
 
