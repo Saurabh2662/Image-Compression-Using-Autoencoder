@@ -49,7 +49,7 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 ## 💡 Contributors
 👤 **Your Name:- Saurabh**  
 📧 **Email:- sauravsingh6462@gmail.com**   
-🔗 **LinkedIn: https://www.linkedin.com/in/saurabh1826/**
+🔗 **LinkedIn:- https://www.linkedin.com/in/saurabh1826/**
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
